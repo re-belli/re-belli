@@ -4,10 +4,6 @@
 
 <table>
   <tr>
-    <td>Visitor #</td>
-    <td><a href="https://github.com/re-belli"><img src="https://profile-counter.glitch.me/re-belli/count.svg" alt="Counter" /></a></td>
-  </tr>
-  <tr>
     <td>Support</td>
     <td><a href="https://github.com/sponsors/re-belli"><img src="https://img.shields.io/badge/sponsor-%f0%9f%a4%8d-c45a93?style=for-the-badge&logo=github" alt="Sponsor" /></a></td>
   </tr>
