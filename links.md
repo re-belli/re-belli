@@ -31,6 +31,7 @@ https://www.securify.nl/en/blog/living-off-the-land-stealing-netntlm-hashes/
 
 ## Windows Shellcoding 
 https://nytrosecurity.com/
+
 https://github.com/ahmedkhlief/Ninja/blob/master/core/agents/cmd_shellcodex64.ninja
 
 
