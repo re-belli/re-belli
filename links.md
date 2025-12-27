@@ -1,4 +1,5 @@
 # Red Team Links
+https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 
 ## Windows POCs
 https://github.com/MzHmO/Exploit-Street
