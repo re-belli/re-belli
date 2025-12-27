@@ -1,5 +1,3 @@
-<a href="https://github.com/re-belli#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=re-belli&layout=compact&theme=swift#gh-light-mode-only" width="320px" alt="Top-Langs-Light" /></a>
-
 <table>
   <tr>
     <td>Support</td>
