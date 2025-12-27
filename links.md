@@ -108,6 +108,8 @@ https://web.archive.org/web/20230429180618/http://zerocondition.com/posts/demyst
 
 ## Windows x64 Stack-Based Overflow 
 
+https://nytrosecurity.com/2018/01/24/stack-based-buffer-overflows-on-x64-windows/
+
 https://github.com/hvictor/targetserv-x64/tree/main
 
 ## Windows VR
