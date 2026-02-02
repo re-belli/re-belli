@@ -18,7 +18,10 @@ https://github.com/apkc/CVE-2024-26229-BOF/tree/main
 https://www.securify.nl/en/blog/living-off-the-land-stealing-netntlm-hashes/
 
 ## Startup folder path 
-.lnk in C:\Users\user\AppData\Roaming\Microsoft\Windows\StartM~1\Programs\Startup\
+C:\Users\user\AppData\Roaming\Microsoft\Windows\StartM~1\Programs\Startup\
+
+## WMI
+https://github.com/XiaoliChan/wmiexec-Pro
 
 ## 64-bit AMSI Patch 
 <code>
