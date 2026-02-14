@@ -121,5 +121,3 @@ https://github.com/hvictor/targetserv-x64/tree/main
 
 ## Windows VR
 https://v-v.space/
-
-https://iamelli0t.github.io/2021/04/10/RPC-Bypass-CFG.html
