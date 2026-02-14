@@ -59,8 +59,6 @@ https://www.youtube.com/watch?v=ir2B1trR0fE
 
 https://dp12.github.io/posts/calling-conventions-for-pwn-and-profit/
 
-https://blog.xhyeax.com/2022/04/28/arm64-syscall-table/
-
 ### Syscall Tables 
 
 https://syscalls.w3challs.com/
