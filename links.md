@@ -75,7 +75,7 @@ https://ctf-wiki.org/pwn/linux/user-mode/heap/ptmalloc2/introduction/
 
 https://hackliza.gal/en/posts/r2heap/
 
-https://www.hoppersroppers.org/roadmap/training/heap.html
+https://www.deep-kondah.com/glibc-heap-internals/
 
 
 ## Kernel Exploitation
