@@ -108,7 +108,7 @@ https://vuln.dev/windows-kernel-exploitation-vm-setup/
 
 https://vuln.dev/tags/kernel-exploit/
 
-https://github/r0keb
+https://github.com/r0keb
 
 ## Windows PatchGuard 
 
