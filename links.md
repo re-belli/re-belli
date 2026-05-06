@@ -112,7 +112,7 @@ https://github.com/r0keb
 
 ## Windows PatchGuard 
 
-https://web.archive.org/web/20230429180618/http://zerocondition.com/posts/demystifying-patchguard/
+https://r0keb.github.io/posts/PatchGuard-Internals
 
 
 ## Windows x64 Stack-Based Overflow 
