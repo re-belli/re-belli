@@ -4,24 +4,11 @@ https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 ## Windows POCs
 https://github.com/MzHmO/Exploit-Street
 
-## Sharp Tools
-https://github.com/Flangvik/SharpCollection/tree/master/NetFramework_4.7_x64
-- SeatBelt
-- SharpUp
-- SharpChromium
-- SharpKatz
-
 ## BOF Kernel Exploit Example 
 https://github.com/apkc/CVE-2024-26229-BOF/tree/main
 
 ## NetNTLM Hash Leaks 
 https://www.securify.nl/en/blog/living-off-the-land-stealing-netntlm-hashes/
-
-## Startup folder path 
-C:\Users\user\AppData\Roaming\Microsoft\Windows\StartM~1\Programs\Startup\
-
-## WMI
-https://github.com/XiaoliChan/wmiexec-Pro
 
 ## 64-bit AMSI Patch 
 <code>
@@ -100,7 +87,7 @@ https://www.slideshare.net/slideshow/windows-10-nt-heap-exploitation-english-ver
 
 ## KASLR Bypass
 
-https://hackyboiz.github.io/2025/04/13/l0ch/bypassing-kernel-mitigation-part0/en/
+https://github.com/r0keb/MunIntel/tree/main
 
 ## Windows Kernel exploitation 
 
