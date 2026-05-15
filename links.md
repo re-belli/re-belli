@@ -4,9 +4,6 @@ https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 ## Windows POCs
 https://github.com/MzHmO/Exploit-Street
 
-## BOF Kernel Exploit Example 
-https://github.com/apkc/CVE-2024-26229-BOF/tree/main
-
 ## NetNTLM Hash Leaks 
 https://www.securify.nl/en/blog/living-off-the-land-stealing-netntlm-hashes/
 
